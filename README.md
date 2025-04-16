@@ -1,6 +1,7 @@
-# logsex
+# [FrameDB Wiki](https://framedb.github.io/wiki)
 
-logsex is a template repository for deploying Logseq graph to GitHub Pages.
+FrameDB Wiki is a Logseq graph containing information and references
+about vintage eyewear, for collectors.
 
 See also: [soyart.github.io/logsex](https://soyart.github.io/logsex)
 
